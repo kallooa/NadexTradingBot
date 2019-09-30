@@ -4,4 +4,4 @@ This trading bot used email notifications from Gmail to automatically place trad
 Technologies Utilized:
 - Python
 - Selenium
-- POP Mail Servers
+- POP3 Mail Servers
